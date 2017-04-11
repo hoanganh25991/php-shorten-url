@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mremi/url-shortener": "^2.1",
+        "webignition/url": "^1.9"
+    }
+}
